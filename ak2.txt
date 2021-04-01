@@ -1,4 +1,10 @@
 ak2
+<<<<<<< HEAD
 I love git
 i love india
 abc
+=======
+edited on 1 april in remote repo
+i love git
+i love git hub technology
+>>>>>>> 02cce12b54c9e9fa67911400790b234655ad732e
